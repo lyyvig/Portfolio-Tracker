@@ -1,0 +1,5 @@
+/data.db
+/logs
+/config.json
+/__pycache__
+/CreateDb.py
